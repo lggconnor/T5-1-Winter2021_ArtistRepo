@@ -1,49 +1,19 @@
 fileFormatVersion: 2
 guid: e4122bd3a041f0348a7fd68a57f39959
 ModelImporter:
-  serializedVersion: 19301
+  serializedVersion: 20101
   internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Basic_id
-    second: {fileID: 2100000, guid: 03dfe9143074a1f43bd8766c5f02c0b7, type: 2}
+      name: D2
+    second: {fileID: 2100000, guid: e09dced1cf72e59468328a89facca88b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Bottem_id
-    second: {fileID: 2100000, guid: 17117b03d09299441924ba92df157d3f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Interior_id
-    second: {fileID: 2100000, guid: 64ddc272ed5692d4882251e4fb22795b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Lips_id
-    second: {fileID: 2100000, guid: 397482322541cdd4c8aaeae70f199b12, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Post_id
-    second: {fileID: 2100000, guid: 9037a1ba19805154dabfc0c3fb36f677, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ticket_id
-    second: {fileID: 2100000, guid: 54fa55236c126644c8f9cedec1698544, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Top_id
-    second: {fileID: 2100000, guid: a698088a58b910440ae42eaebefd879e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Window_id
-    second: {fileID: 2100000, guid: 5ee0eb6b511ab3e4db73b55373ec58d2, type: 2}
+      name: default
+    second: {fileID: 2100000, guid: 4ac9cc6d4c313f24397d73935ddaecf0, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -89,6 +59,7 @@ ModelImporter:
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
@@ -98,6 +69,9 @@ ModelImporter:
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
