@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 15008b11982e86249af2e70ca87f0508
+guid: b5e020a276ba102489b26b9864627f39
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 21 - Default
-    second: {fileID: 2100000, guid: 7dbde318a72346749a4f227765cac9f4, type: 2}
+      name: Ticket_id
+    second: {fileID: 2100000, guid: a0055140e5057084fb3a4c5f039f96df, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
